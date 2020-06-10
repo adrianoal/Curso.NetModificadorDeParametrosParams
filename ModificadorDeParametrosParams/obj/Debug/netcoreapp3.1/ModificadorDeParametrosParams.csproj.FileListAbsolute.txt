@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadorDeParametrosParams.exe
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadorDeParametrosParams.deps.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadorDeParametrosParams.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadorDeParametrosParams.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadorDeParametrosParams.dll
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadorDeParametrosParams.pdb
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadorDeParametrosParams.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadorDeParametrosParams.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadorDeParametrosParams.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadorDeParametrosParams.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadorDeParametrosParams.dll
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadorDeParametrosParams.pdb
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametrosParams\ModificadorDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadorDeParametrosParams.genruntimeconfig.cache
